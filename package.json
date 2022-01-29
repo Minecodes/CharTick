@@ -1,0 +1,20 @@
+{
+  "name": "chartick",
+  "description": "A program to scan how many times a character is in a file.",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "main.mjs",
+  "bin": "main.mjs",
+  "files": [
+    "main.mjs"
+  ],
+  "author": "Minecodes",
+  "dependencies": {
+    "chalk": "^5.0.0",
+    "commander": "^9.0.0",
+    "enquirer": "^2.3.6",
+    "figlet": "^1.5.2",
+    "gradient-string": "^2.0.0"
+  },
+  "license": "BSD-3-Clause"
+}
