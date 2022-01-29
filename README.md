@@ -1,4 +1,4 @@
-# CHARTICK
+# CHARTICK [![Node.js Package](https://github.com/Minecodes/CharTick/actions/workflows/npm-publish.yml/badge.svg?style=flat-square&branch=Release)](https://github.com/Minecodes/CharTick/actions/workflows/npm-publish.yml)
 A simple character counter for text files in Javascript.
 ## Installation
 ### Yarn
