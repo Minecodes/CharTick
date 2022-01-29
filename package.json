@@ -1,7 +1,7 @@
 {
   "name": "chartick",
   "description": "A program to scan how many times a character is in a file.",
-  "version": "1.0.0.1",
+  "version": "1.0.1",
   "type": "module",
   "main": "main.mjs",
   "bin": "main.mjs",
