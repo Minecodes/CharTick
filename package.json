@@ -1,13 +1,17 @@
 {
   "name": "chartick",
   "description": "A program to scan how many times a character is in a file.",
-  "version": "1.0.0",
+  "version": "1.0.0.1",
   "type": "module",
   "main": "main.mjs",
   "bin": "main.mjs",
   "files": [
     "main.mjs"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Minecodes/CharTick.git"
+  },
   "author": "Minecodes",
   "dependencies": {
     "chalk": "^5.0.0",
